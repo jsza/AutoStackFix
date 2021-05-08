@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoStackFix", "AutoStackFix.csproj", "{81340BF3-01E8-4B6B-9D0F-12191836338F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81340BF3-01E8-4B6B-9D0F-12191836338F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81340BF3-01E8-4B6B-9D0F-12191836338F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81340BF3-01E8-4B6B-9D0F-12191836338F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81340BF3-01E8-4B6B-9D0F-12191836338F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF3CF0CB-7C9E-4A33-9FF0-CDF4FAF4C7AF}
+	EndGlobalSection
+EndGlobal
