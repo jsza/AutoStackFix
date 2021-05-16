@@ -57,7 +57,7 @@ namespace AutoStackFix
             this.m_lastStack = zdo.GetInt("stack");
         }
 
-        private void FixedUpdate()
+        private void Update()
         {
             if (this.m_nview == null || !this.m_nview.IsValid())
             {
